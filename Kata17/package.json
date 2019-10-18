@@ -1,0 +1,15 @@
+{
+  "name": "Kata17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Kata17.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
